@@ -1,4 +1,4 @@
-<p align="center"><a href="http://barbajs.org" target="_blank"><img width="300" src="http://barbajs.org/images/logo.svg"></a></p>
+<p align="center"><a href="http://barbajs.org" target="_blank"><img width="320" src="http://barbajs.org/images/logo.svg"></a></p>
 
 <p align="center">
 <a href="https://gitter.im/luruke/barba.js"><img src="https://badges.gitter.im/luruke/barba.js.svg" /></a>
